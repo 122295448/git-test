@@ -1,9 +1,10 @@
 package com.luowei.git.controller;
 
-public class gitController {
+public class GitController {
 
     public static void main(String[] args) {
         System.out.println(222);
         System.out.println(333);
+        System.out.println(444);
     }
 }

@@ -7,5 +7,6 @@ public class GitController {
         System.out.println(333);
         System.out.println(444);
         System.out.println("hello 555");
+        System.out.println("hot-fix test");
     }
 }
